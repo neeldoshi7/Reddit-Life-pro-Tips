@@ -1,0 +1,23 @@
+{
+  "name": "lptinstabot",
+  "version": "1.0.0",
+  "description": "Instagram bot to make daily posts",
+  "main": "lptScrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "chalk": "^2.4.2",
+    "cheerio": "^1.0.0-rc.3",
+    "instagram-private-api": "^1.27.0",
+    "instagram-web-api": "^2.0.0",
+    "jimp": "^0.6.4",
+    "puppeteer": "^1.19.0",
+    "python-shell": "^1.0.8",
+    "request": "^2.88.0",
+    "text2png": "^2.1.0"
+  }
+}
